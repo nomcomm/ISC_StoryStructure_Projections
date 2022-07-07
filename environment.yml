@@ -4,9 +4,9 @@ channels:
   - defaults
 dependencies:
   - nibabel=3.0.1=py_0
-  - pip=20.0.2=py_2
-  - scipy=1.4.1=py36h9fa6033_0
-  - statsmodels=0.11.0=py36h1de35cc_0
+  - pip
+  - scipy
+  - statsmodels
   - pip:
     - matplotlib
     - nilearn==0.6.2
