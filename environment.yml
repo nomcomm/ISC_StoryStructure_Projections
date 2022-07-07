@@ -7,10 +7,11 @@ dependencies:
   - pip
   - scipy
   - statsmodels
+  - seaborn
   - pip:
     - matplotlib=3.3.0
     - nilearn==0.6.2
     - numpy==1.18.1
     - scikit-learn==0.22.2.post1
     - sklearn==0.0
-    - seaborn
+
