@@ -3,6 +3,9 @@ Analysis for Blinded (in preparation)
 
 Data and analysis code for *Title* [PaperDocument](https://docs.google.com/) [External Link]
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nomcomm/ISC_StoryStructure_Projections/HEAD)
+
+
 
 ***
 
