@@ -6,7 +6,7 @@ Data and analysis code for *Title* [PaperDocument](https://docs.google.com/) [Ex
 
 ***
 
-<img align="right" width=250px src=data/explainer_fig.png> 
+<img align="right" width=500px src=data/explainer_fig.png> 
 
 
 ### Code
