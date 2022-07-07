@@ -5,6 +5,7 @@ data/wholebrain/*
 data/old/*
 data/timeseries/*
 papers/*
+other/*
 .DS_Store
 nilearn_cache/*
 .ipynb_checkpoints/*
