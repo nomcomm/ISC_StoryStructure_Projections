@@ -1,7 +1,7 @@
 Analysis for Blinded (in preparation)
 =============================================
 
-Data and analysis code for describe *How shared brain activity varies over the course of a narrative in regions associated with social cognition and story comprehension* [PaperDocument](https://docs.google.com/) [External Link]
+Data and analysis code for *Title* [PaperDocument](https://docs.google.com/) [External Link]
 
 
 ***
