@@ -1,7 +1,7 @@
-Analysis for Blinded (in preparation)
+Analysis for Grady, Schmälzle, & Baldwin (2022)
 =============================================
 
-Data and analysis code for *Title* [PaperDocument](https://docs.google.com/) [External Link]
+Data and analysis code for *Grady, S. M., Schmälzle, R., & Baldwin, J. A.. (2022). Examining the relationship between story structure and audience response: How shared brain activity varies over the course of a narrative. Projections, 16(3), 1-28.* [Paper](http://dx.doi.org/https://doi.org/10.3167/proj.2022.160301) [External Link]
 
 
 
